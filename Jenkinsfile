@@ -8,7 +8,7 @@ pipeline {
  }
 
  stages {
-   stage('Unit test frontend') {
+   stage('Unit test frontend 14-oct-2020 11:49') {
      agent any
 
      steps {
